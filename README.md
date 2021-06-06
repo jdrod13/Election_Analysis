@@ -8,7 +8,8 @@ Election Analysis audit for the Colorado Board of Election utilizing python.
  On this project, we collaborate with Tom, Colorado’s board of elections employee, to audit the election results. Our analysis, if focused on different voting methoods , such as mail-in Ballot, punch cards, and direct electronic recording, would determine the election’s results. In addition, the election commission requested some additional data to complete the audit. The Colorados’s board of elections asks the voter turnout for each country, the percentage of votes from each country out of the total count, and the county with the highest turnout.
  
  #### Election Analysis scrip Python Code
- <img width="836" alt="Python scrip code" src="https://user-images.githubusercontent.com/81654454/120910909-c7ff1b00-c650-11eb-8bbd-5a74e7408f50.PNG">
+ 
+
 
 ### Purpose
    
