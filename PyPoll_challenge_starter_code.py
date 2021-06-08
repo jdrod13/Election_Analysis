@@ -5,7 +5,7 @@ import csv
 import os
 
 file_to_load = "election_results.csv"
-file_to_save = "jesus_aqui.txt"
+file_to_save = "elections_output.txt"
 
 
 total_votes = 0
